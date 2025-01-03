@@ -1,4 +1,4 @@
-import CTA from '@/components/ui/cta';
+import CTA from '@/components/ui/CTA';
 
 export default function CTALayout({
   children,
